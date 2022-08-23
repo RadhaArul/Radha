@@ -2,7 +2,7 @@
   </br>
 
 
-I am a computer science  student who is interested in Web Development. Also in every new technology that is making our life easier!
+I am a computer science  graduate who is interested in Web Development. Also in every new technology that is making our life easier!
 
 -  I’m currently more into the **Coding**
 -  I’m currently learning **Open Source Contribution.**
@@ -28,6 +28,7 @@ I am a computer science  student who is interested in Web Development. Also in e
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 </br></br></br></br>
 
 
