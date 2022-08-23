@@ -38,12 +38,13 @@ https://radhaportfolio.azurewebsites.net/
   <i>Let's connect and chat! Open to anything under the sun.</i>
 </p>
 <p align="center">
-        <a href="https://www.linkedin.com/in/radha-manickam/">
-  <img align="left" alt="Radha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+  <a href="https://www.linkedin.com/in/radha-manickam/">
+    <img align="left" alt="Radha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
 <a href="https://github.com/RadhaArul">
   <img align="left" alt="Radha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </p>
+
 
 ⭐️ From [Radha](https://github.com/RadhaArul)
