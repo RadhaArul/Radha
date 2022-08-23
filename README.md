@@ -47,7 +47,6 @@ https://radhaportfolio.azurewebsites.net/
 </a>
   
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:radhaarul@gmail.com)](mailto:radhaarul@gmail.com)
-
   <a href="https://radhaportfolio.azurewebsites.net/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   
 </p>
