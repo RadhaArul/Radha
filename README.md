@@ -12,7 +12,7 @@ I am a computer science  student who is interested in Web Development. Also in e
 
 ### Hit this Link, to know more about me.
 ```
-https://radhaportfolio.azurewebsites.net/
+<a href="https://radhaportfolio.azurewebsites.net/"
 ```
 
 ### I know more about- </br>
@@ -33,7 +33,7 @@ https://radhaportfolio.azurewebsites.net/
 
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat! Open to anything under the cloud.</i>
 </p>
 
 <p align="center">
