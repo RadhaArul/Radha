@@ -10,11 +10,8 @@ I am a computer science  student who is interested in Web Development. Also in e
 
 # *I am willing to collaborate as a team player building better code.*
 
-### Hit this Link, to know more about me.
 
-<a href="https://radhaportfolio.azurewebsites.net/">
 
-</a>
 
 
 ### I know more about- </br>
@@ -37,6 +34,8 @@ I am a computer science  student who is interested in Web Development. Also in e
 <p align="center">
   <i>Let's connect and chat! Open to anything under the cloud.</i>
 </p>
+
+### Hit this Link, to know more about me.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radha-manickam/">
