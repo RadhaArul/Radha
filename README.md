@@ -46,7 +46,7 @@ https://radhaportfolio.azurewebsites.net/
   <img align="left" alt="Radha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
   </i>
- ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:radhaarul@gmail.com)(mailto:radhaarul@gmail.com)
+ ![Gmail badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:radhaarul@gmail.com)(mailto:radhaarul@gmail.com)
 </p>
 
 
