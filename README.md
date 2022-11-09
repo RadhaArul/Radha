@@ -42,9 +42,7 @@ I am a computer science  graduate who is interested in Web Development. Also in 
 </br></br></br></br>
 
 
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the cloud.</i>
-</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RadhaArul&label=Profile%20views&color=0e75b6&style=flat" alt="RadhaArul" /> </p>
@@ -57,6 +55,9 @@ I am a computer science  graduate who is interested in Web Development. Also in 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RadhaArul&" alt="RadhaArul" /></p>
 
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the cloud.</i>
+</p>
 
 ### Hit this Link, to know more about me.
 
